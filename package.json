@@ -1,0 +1,20 @@
+{
+  "name": "ftb-translator",
+  "version": "1.0.0",
+  "main": "bin/Main.js",
+  "author": "Aletropy",
+  "license": "MIT",
+  "private": false,
+  "repository": "https://github.com/Aletropy/ftb-translator",
+  "scripts": {
+    "dev": "ts-node-dev --respawn src/Main.ts"
+  },
+  "dependencies": {
+    "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.4",
+    "ts-node": "^10.9.2",
+    "ts-node-dev": "^2.0.0"
+  }
+}

@@ -1,0 +1,9 @@
+# Directories
+node_modules/
+.vscode/
+bin/
+quests/
+
+# Files
+**.key
+en_us.json
